@@ -1,0 +1,7 @@
+﻿year,highest_level_of_parental_education,number_of_test_takers,percentage_of_test_takers,total_mean_score,erw_mean_score,math_mean_score,met_both_benchmarks,met_erw_benchmarks,met_math_benchmarks,did_not_meet_benchmarks
+2020,No High School Diploma,198122,9%,919,461,458,19%,39%,23%,58%
+2020,High School Diploma,588120,27%,981,495,485,30%,56%,33%,42%
+2020,Associate Degree,149371,7%,1019,516,503,37%,66%,40%,32%
+2020,Bachelors Degree,625091,28%,1114,558,556,58%,80%,61%,17%
+2020,Graduate Degree,462711,21%,1186,592,594,70%,86%,72%,12%
+2020,No Response,175045,8%,883,443,440,15%,31%,19%,65%

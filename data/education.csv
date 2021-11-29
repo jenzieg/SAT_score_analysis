@@ -1,0 +1,25 @@
+,year,parental_education,number_of_test_takers,percentage_of_test_takers,total,erw,math,p_edu
+0,2017,No High School Diploma,137437,0.08,944,472,472,0
+1,2017,High School Diploma,482194,0.28,1003,507,497,1
+2,2017,Associate Degree,134451,0.08,1036,525,511,2
+3,2017,Bachelors Degree,473103,0.28,1118,562,556,3
+4,2017,Graduate Degree,339743,0.2,1177,591,586,4
+5,2017,No Response,148553,0.09,914,455,460,0
+6,2018,No High School Diploma,172575,0.08,944,473,471,0
+7,2018,High School Diploma,576612,0.27,1005,507,497,1
+8,2018,Associate Degree,158228,0.07,1039,526,513,2
+9,2018,Bachelors Degree,588211,0.28,1129,566,563,3
+10,2018,Graduate Degree,442830,0.21,1197,599,598,4
+11,2018,No Response,198083,0.09,911,454,457,0
+12,2019,No High School Diploma,198564,0.09,926,464,462,0
+13,2019,High School Diploma,608174,0.27,989,500,490,1
+14,2019,Associate Degree,159521,0.07,1027,519,508,2
+15,2019,Bachelors Degree,620711,0.28,1121,561,560,3
+16,2019,Graduate Degree,461235,0.21,1194,596,598,4
+17,2019,No Response,171882,0.08,902,450,452,0
+18,2020,No High School Diploma,198122,0.09,919,461,458,0
+19,2020,High School Diploma,588120,0.27,981,495,485,1
+20,2020,Associate Degree,149371,0.07,1019,516,503,2
+21,2020,Bachelors Degree,625091,0.28,1114,558,556,3
+22,2020,Graduate Degree,462711,0.21,1186,592,594,4
+23,2020,No Response,175045,0.08,883,443,440,0

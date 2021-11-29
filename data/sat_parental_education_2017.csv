@@ -1,0 +1,7 @@
+﻿year,highest_level_of_parental_education,number_of_test_takers,percentage_of_test_takers,total_mean_score,erw_mean_score,math_mean_score,met_both_benchmarks,met_erw_benchmarks,met_math_benchmarks,did_not_meet_benchmarks
+2017,No High School Diploma,137437,8%,944,472,472,22%,46%,26%,50%
+2017,High School Diploma,482194,28%,1003,507,497,33%,62%,36%,35%
+2017,Associate Degree,134451,8%,1036,525,511,40%,71%,43%,27%
+2017,Bachelors Degree,473103,28%,1118,562,556,59%,83%,62%,15%
+2017,Graduate Degree,339743,20%,1177,591,586,69%,88%,71%,10%
+2017,No Response,148553,9%,914,455,460,19%,38%,23%,58%
